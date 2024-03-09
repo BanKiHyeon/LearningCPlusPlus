@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom
+.vs/
+cpp20/*/.vs/
