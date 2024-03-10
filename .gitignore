@@ -34,3 +34,6 @@
 # Custom
 .vs/
 cpp20/*/.vs/
+cpp20/*/Debug/
+cpp20/*/*/Debug/
+cpp20/*/*/x64/
