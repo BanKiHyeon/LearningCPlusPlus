@@ -14,6 +14,6 @@ int main()
 
 	std::cout << s1 << std::endl;
 	std::cout << s2 << std::endl;
-	//std::cout << s3 << std::endl;
+	std::wcout << s3 << std::endl;
 
 }
